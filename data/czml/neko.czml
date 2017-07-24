@@ -1,11 +1,11 @@
 [
     {
         "id": "document",
-        "name": "neko",
+        "name": "cloud",
         "version": "1.0"
     },
     {
-        "id": "neko1",
+        "id": "cloud1",
         "availability": "2014-07-21T09:00:00+09:00/2017-05-05T23:59:59+09:00",
         "name": "ネコ",
         "description": "<p class=\"date\">2014.7.21 09:00</p>",
@@ -94,7 +94,7 @@
         }
     },
     {
-        "id": "neko2",
+        "id": "cloud2",
         "availability": "2014-08-02T12:50:00+09:00/2017-05-05T23:59:59+09:00",
         "name": "ネコ",
         "description": "<p class=\"date\">2014.8.2 12:50</p>",
@@ -183,7 +183,7 @@
         }
     },
     {
-        "id": "neko3",
+        "id": "cloud3",
         "availability": "2014-11-09T08:30:00+09:00/2017-05-05T23:59:59+09:00",
         "name": "ネコ",
         "description": "<p class=\"date\">2014.11.9 08:30</p>",
@@ -272,7 +272,7 @@
         }
     },
     {
-        "id": "neko4",
+        "id": "cloud4",
         "availability": "2014-11-22T19:20:00+09:00/2017-05-05T23:59:59+09:00",
         "name": "ネコ",
         "description": "<p class=\"date\">2014.11.22 19:20</p>",
@@ -361,7 +361,7 @@
         }
     },
     {
-        "id": "neko5",
+        "id": "cloud5",
         "availability": "2014-12-22T21:00:00+09:00/2017-05-05T23:59:59+09:00",
         "name": "ネコ",
         "description": "<p class=\"date\">2014.12.22 21:00</p>",
