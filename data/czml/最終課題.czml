@@ -1,13 +1,13 @@
-[
+
+" "[
     {
-        "id": "document",
-        "name": "cloud",
-        "version": "1.0"
+        ""id"": ""document"",
+        ""name"": ""cloud"",
+        ""version"": ""1.0""
     },
-    {
-        "id": "cloud1",
+""id":"cloud1",
         "availability": "2014-07-21T09:00:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
+        "name": "cloud",
         "description": "<p class=\"date\">2014.7.21 09:00</p>",
         "billboard": {
             "scaleByDistance": {
@@ -19,7 +19,7 @@
                 ]
             },
             "horizontalOrigin": "CENTER",
-            "image": "http://furuhashilab.com/temp/Issei0128_t.png",
+            "image": "https://github.com/furuhashilab/www_furuhashiab_com/blob/gh-pages/temp/Issei0128_t.png?raw=true",
             "scale": 0.6,
             "color": {
                 "rgba": [
@@ -33,11 +33,8 @@
             "verticalOrigin": "BOTTOM"
         },
         "position": {
-            "cartographicDegrees": [
-                138.731060,
-                35.362456,
-                3999
-            ]
+"cartographicDegrees": [
+138.73106,35.362456,3999       ]
         },
         "label": {
             "translucencyByDistance": {
@@ -64,40 +61,11 @@
             },
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
-            "style": "FILL",
-            "text": "ネコ"
-        },
-        "polyline": {
-            "width": 1,
-            "positions": {
-                "cartographicDegrees": [
-                    138.65632777778,
-                    35.481038888889,
-                    3999,
-                    138.65632777778,
-                    35.481038888889,
-                    0
-                ]
-            },
-            "material": {
-                "solidColor": {
-                    "color": {
-                        "rgba": [
-                            255,
-                            0,
-                            0,
-                            64
-                        ]
-                    }
-                }
-            }
-        }
-    },
-    {
-        "id": "cloud2",
-        "availability": "2014-08-02T12:50:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
-        "description": "<p class=\"date\">2014.8.2 12:50</p>",
+"style": "FILL",
+"text":"cloud""id":"cloud2",
+        "availability": "2014-07-21T09:00:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "cloud",
+        "description": "<p class=\"date\">2014.7.21 09:00</p>",
         "billboard": {
             "scaleByDistance": {
                 "nearFarScalar": [
@@ -108,7 +76,7 @@
                 ]
             },
             "horizontalOrigin": "CENTER",
-            "image": "http://furuhashilab.com/temp/Issei0128_t.png",
+            "image": "https://github.com/furuhashilab/www_furuhashiab_com/blob/gh-pages/temp/Issei0128_t.png?raw=true",
             "scale": 0.6,
             "color": {
                 "rgba": [
@@ -122,11 +90,8 @@
             "verticalOrigin": "BOTTOM"
         },
         "position": {
-            "cartographicDegrees": [
-                138.73666666667,
-                35.503333333333,
-                3999
-            ]
+"cartographicDegrees": [
+138.73666666667,35.503333333333,3999       ]
         },
         "label": {
             "translucencyByDistance": {
@@ -153,40 +118,11 @@
             },
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
-            "style": "FILL",
-            "text": "ネコ"
-        },
-        "polyline": {
-            "width": 1,
-            "positions": {
-                "cartographicDegrees": [
-                    138.73666666667,
-                    35.503333333333,
-                    3999,
-                    138.73666666667,
-                    35.503333333333,
-                    0
-                ]
-            },
-            "material": {
-                "solidColor": {
-                    "color": {
-                        "rgba": [
-                            255,
-                            0,
-                            0,
-                            64
-                        ]
-                    }
-                }
-            }
-        }
-    },
-    {
-        "id": "cloud3",
-        "availability": "2014-11-09T08:30:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
-        "description": "<p class=\"date\">2014.11.9 08:30</p>",
+"style": "FILL",
+"text":"cloud""id":"cloud3",
+        "availability": "2014-07-21T09:00:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "cloud",
+        "description": "<p class=\"date\">2014.7.21 09:00</p>",
         "billboard": {
             "scaleByDistance": {
                 "nearFarScalar": [
@@ -197,7 +133,7 @@
                 ]
             },
             "horizontalOrigin": "CENTER",
-            "image": "http://furuhashilab.com/temp/Issei0128_t.png",
+            "image": "https://github.com/furuhashilab/www_furuhashiab_com/blob/gh-pages/temp/Issei0128_t.png?raw=true",
             "scale": 0.6,
             "color": {
                 "rgba": [
@@ -211,11 +147,8 @@
             "verticalOrigin": "BOTTOM"
         },
         "position": {
-            "cartographicDegrees": [
-                138.6074636,
-                35.4197767,
-                3999
-            ]
+"cartographicDegrees": [
+138.6074636,35.4197767,3999       ]
         },
         "label": {
             "translucencyByDistance": {
@@ -242,40 +175,11 @@
             },
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
-            "style": "FILL",
-            "text": "ネコ"
-        },
-        "polyline": {
-            "width": 1,
-            "positions": {
-                "cartographicDegrees": [
-                    138.6074636,
-                    35.4197767,
-                    3999,
-                    138.6074636,
-                    35.4197767,
-                    0
-                ]
-            },
-            "material": {
-                "solidColor": {
-                    "color": {
-                        "rgba": [
-                            255,
-                            0,
-                            0,
-                            64
-                        ]
-                    }
-                }
-            }
-        }
-    },
-    {
-        "id": "cloud4",
-        "availability": "2014-11-22T19:20:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
-        "description": "<p class=\"date\">2014.11.22 19:20</p>",
+"style": "FILL",
+"text":"cloud""id":"cloud4",
+        "availability": "2014-07-21T09:00:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "cloud",
+        "description": "<p class=\"date\">2014.7.21 09:00</p>",
         "billboard": {
             "scaleByDistance": {
                 "nearFarScalar": [
@@ -286,7 +190,7 @@
                 ]
             },
             "horizontalOrigin": "CENTER",
-            "image": "http://furuhashilab.com/temp/Issei0128_t.png",
+            "image": "https://github.com/furuhashilab/www_furuhashiab_com/blob/gh-pages/temp/Issei0128_t.png?raw=true",
             "scale": 0.6,
             "color": {
                 "rgba": [
@@ -300,11 +204,8 @@
             "verticalOrigin": "BOTTOM"
         },
         "position": {
-            "cartographicDegrees": [
-                138.7607812,
-                35.5073161,
-                3999
-            ]
+"cartographicDegrees": [
+138.7607812,35.5073161,3999       ]
         },
         "label": {
             "translucencyByDistance": {
@@ -331,40 +232,11 @@
             },
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
-            "style": "FILL",
-            "text": "ネコ"
-        },
-        "polyline": {
-            "width": 1,
-            "positions": {
-                "cartographicDegrees": [
-                    138.7607812,
-                    35.5073161,
-                    3999,
-                    138.7607812,
-                    35.5073161,
-                    0
-                ]
-            },
-            "material": {
-                "solidColor": {
-                    "color": {
-                        "rgba": [
-                            255,
-                            0,
-                            0,
-                            64
-                        ]
-                    }
-                }
-            }
-        }
-    },
-    {
-        "id": "cloud5",
-        "availability": "2014-12-22T21:00:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
-        "description": "<p class=\"date\">2014.12.22 21:00</p>",
+"style": "FILL",
+"text":"cloud""id":"cloud5",
+        "availability": "2014-07-21T09:00:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "cloud",
+        "description": "<p class=\"date\">2014.7.21 09:00</p>",
         "billboard": {
             "scaleByDistance": {
                 "nearFarScalar": [
@@ -375,7 +247,7 @@
                 ]
             },
             "horizontalOrigin": "CENTER",
-            "image": "http://furuhashilab.com/temp/Issei0128_t.png",
+            "image": "https://github.com/furuhashilab/www_furuhashiab_com/blob/gh-pages/temp/Issei0128_t.png?raw=true",
             "scale": 0.6,
             "color": {
                 "rgba": [
@@ -389,11 +261,8 @@
             "verticalOrigin": "BOTTOM"
         },
         "position": {
-            "cartographicDegrees": [
-                138.7579065,
-                35.5036024,
-                3999
-            ]
+"cartographicDegrees": [
+138.7579065,35.5036024,3999       ]
         },
         "label": {
             "translucencyByDistance": {
@@ -420,33 +289,62 @@
             },
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
-            "style": "FILL",
-            "text": "ネコ"
-        },
-        "polyline": {
-            "width": 1,
-            "positions": {
-                "cartographicDegrees": [
-                    138.7579065,
-                    35.5036024,
-                    3999,
-                    138.7579065,
-                    35.5036024,
+"style": "FILL",
+"text":"cloud""id":"",
+        "availability": "2014-07-21T09:00:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "cloud",
+        "description": "<p class=\"date\">2014.7.21 09:00</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
                     0
                 ]
             },
-            "material": {
-                "solidColor": {
-                    "color": {
-                        "rgba": [
-                            255,
-                            0,
-                            0,
-                            64
-                        ]
-                    }
-                }
-            }
-        }
-    }
-]
+            "horizontalOrigin": "CENTER",
+            "image": "https://github.com/furuhashilab/www_furuhashiab_com/blob/gh-pages/temp/Issei0128_t.png?raw=true",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+"cartographicDegrees": [
+,,       ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+"style": "FILL",
+"text":"""
